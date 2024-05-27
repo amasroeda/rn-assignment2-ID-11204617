@@ -1,3 +1,11 @@
+# Screenshots
+
+# Description
+This task entails creating a new React Native project using Expo CLI and customizing the appearance and content of a React Native app template.
+
+# Student ID 
+11204617
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
